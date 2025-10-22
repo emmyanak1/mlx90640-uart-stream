@@ -1,0 +1,17 @@
+# STM32CubeIDE generated folders
+/Debug/
+/Release/
+/build/
+/.out
+
+# OS files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.launch
+
+# Python cache (if you used any scripts)
+/__pycache__/
+/*.pyc
+
